@@ -13,7 +13,6 @@ apps=(
   hammerspoon
   jumpcut
   macdown
-  microsoft-office
   skype
   slack
   spotify
@@ -23,7 +22,6 @@ apps=(
   firefox
   chromium
   google-chrome
-  google-chrome-canary
   opera
   vagrant
   sequel-pro
@@ -36,7 +34,6 @@ apps=(
   virtualbox
   postman
   postico
-  sublime-text
   sketch
   tableplus
   deco
