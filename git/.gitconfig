@@ -1,12 +1,12 @@
 [user]
-	name = David Bonner
-	email = 534654+davidianbonner@users.noreply.github.com
+	name = Cleyra 
+	email = cleyra.uzcategui@gmail.com
 
 [github]
-  user = dbonner1987
+  user = cleyrauz
 
 [core]
-	excludesfile = /Users/davidbonner/.gitignore_global
+	excludesfile = /Users/cleyrauzcategui/.gitignore_global
   editor = vim
   filemode = false
   trustctime = false
@@ -15,7 +15,6 @@
 [alias]
   st = status
   sts = status -sb
-  stl = ls-files -m -o --exclude-standard
   ci = commit
   br = branch
   co = checkout
@@ -106,4 +105,4 @@
 	smudge = git-lfs smudge -- %f
 	process = git-lfs filter-process
 [commit]
-	template = /Users/davidbonner/.stCommitMsg
+	template = /Users/cleyrauzcategui/.stCommitMsg
