@@ -61,5 +61,5 @@ export OS DOTFILES_DIR EXTRA_DIR
 
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
 
-export PATH="/usr/local/opt/php@7.1/bin:$PATH"
-export PATH="/usr/local/opt/php@7.1/sbin:$PATH"
+#export PATH="/usr/local/opt/php@7.1/bin:$PATH"
+#export PATH="/usr/local/opt/php@7.1/sbin:$PATH"
